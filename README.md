@@ -1,18 +1,15 @@
 # PROJECTS
 <details>
-  <summary>**Click to expand!**</summary>
+  <summary>zachery.us</summary>
 
-
-
-
-
-
-  This content is hidden until you click "expand." You can place text, images, lists, or even code blocks here.
-
-
-
-
-
-
+inside
 
 </details>
+
+<details>
+  <summary>acidic.ai</summary>
+
+inside
+
+</details>
+
