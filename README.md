@@ -1,3 +1,31 @@
+# PROJECTS
+## [Chatbot](google.com)
+<details>
+  <summary>Short sentence describing my project.</summary>
+> example of a highlight
+🥉🟡
+[x] this is an item
+[ ] this is another item
+[ ] this is a third item
+
+</details>
+
+## [Website](google.com)
+
+![this is a cat or something](https://www.nps.gov/romo/learn/nature/images/Marmot_Fat_250x400.jpg)
+
+```print("Hello, GitHub!")```
+
+# CONTACT
+## LinkedIn
+
+
+
+
+
+
+
+
 ## Hi there 👋
 
 line one
