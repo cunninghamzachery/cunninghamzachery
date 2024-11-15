@@ -2,6 +2,7 @@
 ## [Chatbot](google.com)
 <details>
   <summary>Short sentence describing my project.</summary>
+
 ![Highlight](https://img.shields.io/badge/Note-Important-yellow)
 
 🥉🟡
@@ -9,10 +10,15 @@
 - [ ] this is another item
 - [ ] this is a third item
 
-<span style="background-color: #FFFF00">This text is highlighted!</span>
+
+
+
 
 
 </details>
+
+<span style="background-color: #FFFF00">This text is highlighted!</span>
+
 
 ## [Website](google.com)
 
