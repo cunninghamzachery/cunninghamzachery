@@ -1,14 +1,20 @@
-# PROJECTS
-**PROJECTS**
-<details>
-  <summary>zachery.us</summary>
+## PORTFOLIO
+### [***ZACHERY.US***](https://zachery.us/) *Professional Website*   ![Static Badge](https://img.shields.io/badge/READY%20TO%20SHIP-%23022112?style=flat&label=!&labelColor=%23009C12&color=%2300570A)
 
-inside
+
+<details>
+  <summary>Project Details</summary>
+
+inside- 
+
 
 </details>
 
+### [***ACIDIC.AI***](https://acidic.ai/) *Modular Chatbot* ![Static Badge](https://img.shields.io/badge/NEEDS%20WORK-%23022112?style=flat&label=!&labelColor=%239C9900&color=%23636200)
+
+
 <details>
-  <summary>acidic.ai</summary>
+  <summary>Project Details</summary>
 
 inside
 
