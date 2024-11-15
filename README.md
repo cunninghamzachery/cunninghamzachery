@@ -3,4 +3,4 @@
 | **Welcome to My Profile** |
 
 
-<img src="https://github.com/cunninghamzachery/cunninghamzachery/logo.png" alt="Image Description">
+<img src="https://github.com/cunninghamzachery/cunninghamzachery/mylogo.png" alt="Image Description">
