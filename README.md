@@ -1,4 +1,5 @@
 # PROJECTS
+**PROJECTS**
 <details>
   <summary>zachery.us</summary>
 
