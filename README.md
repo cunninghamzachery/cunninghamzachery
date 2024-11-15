@@ -2,11 +2,15 @@
 ## [Chatbot](google.com)
 <details>
   <summary>Short sentence describing my project.</summary>
-> example of a highlight
+![Highlight](https://img.shields.io/badge/Note-Important-yellow)
+
 🥉🟡
-[x] this is an item
-[ ] this is another item
-[ ] this is a third item
+- [x] this is an item
+- [ ] this is another item
+- [ ] this is a third item
+
+<span style="background-color: #FFFF00">This text is highlighted!</span>
+
 
 </details>
 
@@ -14,7 +18,16 @@
 
 ![this is a cat or something](https://www.nps.gov/romo/learn/nature/images/Marmot_Fat_250x400.jpg)
 
-```print("Hello, GitHub!")```
+```
+print("Hello, GitHub!")
+def function(yellow):
+  if yellow == red:
+    pass
+  else:
+    this is random
+  return
+
+```
 
 # CONTACT
 ## LinkedIn
