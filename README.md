@@ -5,7 +5,9 @@
 
 ![Highlight Badge](https://img.shields.io/badge/Note-Important-yellow)
 
-![Highlight]()
+<img src="https://img.shields.io/badge/Note-Important-yellow" alt="Highlight Badge">
+
+
 
 🥉🟡
 - [x] this is an item
