@@ -3,7 +3,9 @@
 <details>
   <summary>Short sentence describing my project.</summary>
 
-![Highlight](https://img.shields.io/badge/Note-Important-yellow)
+![Highlight Badge](https://img.shields.io/badge/Note-Important-yellow)
+
+![Highlight]()
 
 🥉🟡
 - [x] this is an item
